@@ -52898,7 +52898,7 @@ return s*(B.f.f3(a-1,this.a)+1)-(s-this.d)}}
 A.a_6.prototype={}
 A.a_7.prototype={
 BG(a){var s=Math.max(0,a.w-8)/2,r=s/1
-return new A.a_a(2,r+8,s+8,r,s,A.zj(a.x))}}
+return new A.a_a(2,r+16,s+8,r,s,A.zj(a.x))}}
 A.oY.prototype={
 j(a){return"crossAxisOffset="+A.f(this.w)+"; "+this.Qy(0)}}
 A.EN.prototype={
@@ -67239,7 +67239,7 @@ case 6:case 1:return A.I(q,r)
 case 2:return A.H(o,r)}})
 return A.J($async$qI,r)},
 M(a){var s=null,r=A.bo(a,s,t.w).w.a.a*0.45
-return A.YJ(A.Oh(A.b([A.Cf(s,B.e5,new A.a6D(a),s,s)],t.F),B.f4),A.aaj(new A.a6E(r,r),this.j8(),t.b5))}}
+return A.YJ(A.Oh(A.b([A.Cf(s,B.e5,new A.a6D(a),s,s)],t.F),B.f4),A.aaj(new A.a6E(r,r*1.5),this.j8(),t.b5))}}
 A.a6D.prototype={
 $0(){$.ai.k2$.push(new A.a6C(this.a))},
 $S:0}
