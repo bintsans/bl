@@ -52898,7 +52898,7 @@ return s*(B.f.f3(a-1,this.a)+1)-(s-this.d)}}
 A.a_6.prototype={}
 A.a_7.prototype={
 BG(a){var s=Math.max(0,a.w-8)/2,r=s/1
-return new A.a_a(2,r+200,s+8,r,s,A.zj(a.x))}}
+return new A.a_a(2,r+150,s+8,r,s,A.zj(a.x))}}
 A.oY.prototype={
 j(a){return"crossAxisOffset="+A.f(this.w)+"; "+this.Qy(0)}}
 A.EN.prototype={
